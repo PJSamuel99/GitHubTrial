@@ -17,8 +17,6 @@ public class MainActivity2 extends AppCompatActivity {
 
 
         view =findViewById(R.id.button);
-        view.setOnClickListener(View ->v){
 
-        }
     }
 }
